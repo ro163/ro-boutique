@@ -33,7 +33,7 @@ body {
 .hero-section {
     height: 70vh;
     background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(21, 35, 49, 0.85)), 
-                url('Everyday Boutique Style header photo.jpg') center/cover no-repeat;
+                url('header.jpg') center/cover no-repeat;
     margin-top: 60px;
 }
 
